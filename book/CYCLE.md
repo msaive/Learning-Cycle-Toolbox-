@@ -21,3 +21,7 @@ These tools may also be used for your personal reference, or as a visual aid in 
 [⭕ Learning cycle with prompts for learning team](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-2-learning-cycle-with-prompts-for-the-learning-team "⭕ 0.2 - Learning cycle with prompts for the learning team")
 
 [⭕ Learning cycle with prompts for individual student / 1-on-1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-3-learning-cycle-with-prompts-for-the-individual-student-slash-1-on-1 "⭕ 0.3 - Learning cycle with prompts for the individual student / 1-on-1")
+
+
+[Back to TOOLBOX START]([Back to main](../Learning-Cycle-Toolbox-
+/book/intro.md))
