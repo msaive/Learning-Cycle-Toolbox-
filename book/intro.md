@@ -1,4 +1,4 @@
-(intro)=
+
 # 🚩 Learning Cycle Toolbox :: Starting point
 
 ### **What is the learning cycle toolbox?**
