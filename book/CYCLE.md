@@ -21,7 +21,7 @@ These tools may also be used for your personal reference, or as a visual aid in 
 
 ----------
 
-_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602?wrap=1 "0.1 - Learning cycle model visual EN v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602/download?download_frd=1)_
+_The PDF of this tool can be downloaded  [here](./pdf/0.1%20-%20Learning%20cycle%20model%20visual%20EN%20v4.0.pdf)_
 
 ----------
 
@@ -35,7 +35,7 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-![image.png](./images/cover_pupub.png)
+![image.png](./images/learning%20cycle%20model%20visual.png)
 
 ----------
 
