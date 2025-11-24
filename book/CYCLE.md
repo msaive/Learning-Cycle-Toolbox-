@@ -35,7 +35,7 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583609/preview)
+![image.png](./images/cover_pupub.png)
 
 ----------
 
