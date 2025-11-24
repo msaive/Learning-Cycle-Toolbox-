@@ -14,13 +14,82 @@ These tools may also be used for your personal reference, or as a visual aid in 
 
 ----------
 
-#### **Select a Tool Below:**
 
-[⭕ Learning cycle model visual](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-1-learning-cycle-model-visual "⭕ 0.1 - Learning cycle model visual")
+# ⭕ 0.1 - Learning cycle model visual
 
-[⭕ Learning cycle with prompts for learning team](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-2-learning-cycle-with-prompts-for-the-learning-team "⭕ 0.2 - Learning cycle with prompts for the learning team")
+## **A visual representation of the learning cycle model, for reference purposes**
 
-[⭕ Learning cycle with prompts for individual student / 1-on-1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-3-learning-cycle-with-prompts-for-the-individual-student-slash-1-on-1 "⭕ 0.3 - Learning cycle with prompts for the individual student / 1-on-1")
+----------
+
+_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602?wrap=1 "0.1 - Learning cycle model visual EN v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602/download?download_frd=1)_
+
+----------
+
+#### **How to use this tool?**
+
+This picture may be used for personal reference or to use as visual aid in discussions about the learning cycle.
+
+For a version with prompting questions for the learning team:  [**See tool 0.2**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-2-learning-cycle-with-prompts-for-the-learning-team "⭕ 0.2 - Learning cycle with prompts for the learning team")
+
+For a version with prompting questions for the individual student:  [**See tool 0.3**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-3-learning-cycle-with-prompts-for-the-individual-student-slash-1-on-1 "⭕ 0.3 - Learning cycle with prompts for the individual student / 1-on-1")
+
+----------
+
+![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583609/preview)
+
+----------
+
+[](https://canvas.maastrichtuniversity.nl/courses/23475/files/5234317?wrap=1)_Illustration:_  Judith Sieben, based on the original model created by  [Zimmerman, 2002Links to an external site.](https://doi.org/10.1207/s15430421tip4102_2). Icons:  [flaticon.comLinks to an external site.](https://www.flaticon.com/)
 
 
-[Back to TOOLBOX START](../Learning-Cycle-Toolbox-/book/intro.md)
+# ⭕ 0.2 - Learning cycle with prompts for the learning team
+
+## **A visual representation of the learning cycle model, with discussion prompts for the learning team**
+
+----------
+
+_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583589?wrap=1 "0.2 - Learning cycle with prompts for learning team v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583589/download?download_frd=1)_
+
+----------
+
+#### **How to use this tool?**
+
+This one-pager may be used as visual aid and discussion guide to talk about the learning cycle in your learning team.
+
+For a plain version without the prompts:  [**See tool 0.1**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-1-learning-cycle-model-visual "⭕ 0.1 - Learning cycle model visual")
+
+For a version with prompting questions for the individual student:  [**See tool 0.3**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-3-learning-cycle-with-prompts-for-the-individual-student-slash-1-on-1 "⭕ 0.3 - Learning cycle with prompts for the individual student / 1-on-1")
+
+----------
+
+![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583590/preview)
+
+----------
+
+[](https://canvas.maastrichtuniversity.nl/courses/23475/files/5234317?wrap=1)_Illustration:_  Judith Sieben, based on the original model created by  [Zimmerman, 2002Links to an external site.](https://doi.org/10.1207/s15430421tip4102_2). Icons:  [flaticon.comLinks to an external site.](https://www.flaticon.com/)
+
+# ⭕ 0.3 - Learning cycle with prompts for the individual student / 1-on-1
+
+## **A visual representation of the learning cycle model, with discussion prompts for the individual student**
+
+----------
+
+_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583600?wrap=1 "0.3 - Learning cycle with prompts for individual student 1-on-1 v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583600/download?download_frd=1)_
+
+----------
+
+#### **How to use this tool?**
+
+This one-pager may be used as visual aid and discussion guide to talk about the learning cycle in your learning team.
+
+For a plain version without the prompts:  [**See tool 0.1**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-1-learning-cycle-model-visual "⭕ 0.1 - Learning cycle model visual")
+
+For a version with prompting questions for the learning team:  [**See tool 0.2**](https://canvas.maastrichtuniversity.nl/courses/23475/pages/0-dot-2-learning-cycle-with-prompts-for-the-learning-team "⭕ 0.2 - Learning cycle with prompts for the learning team")
+
+----------
+
+![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583591/preview)
+
+----------
+
+[](https://canvas.maastrichtuniversity.nl/courses/23475/files/5234317?wrap=1)_Illustration:_  Judith Sieben, based on the original model created by  [Zimmerman, 2002Links to an external site.](https://doi.org/10.1207/s15430421tip4102_2). Icons:  [flaticon.comLinks to an external site.](https://www.flaticon.com/)
