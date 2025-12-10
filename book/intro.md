@@ -23,7 +23,7 @@ The 2-slide infographic below shows the learning cycle. At the core of the cycle
 
 **I want to find a tool to…**
 
-[⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE) 
+[⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE.md) 
 
 
 **[⚫ PLAN](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-analyse-a-task "🧰 PLAN :: I want to analyse a task")** [- Analyse the task](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-analyse-a-task "🧰 PLAN :: I want to analyse a task")
