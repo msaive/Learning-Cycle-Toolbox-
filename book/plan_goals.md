@@ -395,9 +395,6 @@ Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic quest
 
 ## **Actions to develop a team plan for a curriculum period**
 
-----------
-
-_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583439?wrap=1 "2.3 - Make a team plan for a period v1.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583439/download?download_frd=1)_
 
 ----------
 
@@ -449,7 +446,7 @@ For a guideline to develop your own personal learning plan >  [See Tool 2.2.1](h
 | 7           | xx/xx        | Start focus-APT 3  | xx/xx           |           |            |
 |             | xx/xx        | xx/xx group assignment |            |           |            |
 | …           | …            | …                  | …               | …         | …          |
-                                             |
+            
 
 
 #### **Step 3:** **Refine meeting agenda per focus-APT**
