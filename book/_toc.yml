@@ -10,9 +10,11 @@ parts:
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
     - file: CYCLE.md
-    - file: plan_analyse.md
-    - file: plan_goals.md
-    - file: act_strategies.md
-    - file: act_monitor.md
+    - file: 1_plan_analyse.md
+    - file: 2_plan_goals.md
+    - file: 3_act_strategies.md
+    - file: 4_act_monitor.md
+    - file: 5_lookback_evaluate.md
+
      
 
