@@ -1,4 +1,4 @@
-# 1. PLAN :: I want to analyse a task
+# ⚫ PLAN :: I want to analyse a task
 
 ### **What are these tools?**
 
@@ -136,12 +136,13 @@ The overarching APT-map can further be used to  **zoom in / zoom out**  of focus
 
 -   Example of an overarching APT-map created in online concept mapping platform:
 
-<img width="600"  alt="image-0b471f16-722e-490e-bb1c-0b606e87ce8f" src="https://github.com/user-attachments/assets/d4e85c5e-3bed-4efc-9e8f-51608347a6cc" />
+<img width="650"  alt="image-0b471f16-722e-490e-bb1c-0b606e87ce8f" src="https://github.com/user-attachments/assets/d4e85c5e-3bed-4efc-9e8f-51608347a6cc" />
 
+</br>
 
 -   Examples of APT map on whiteboard. Not to copy, just for inspiration. Notice different techniques, layouts:
 
-<img width="1004" height="697" alt="image-3c4ffb19-19a7-4e5b-89bf-dbf303ee4748" src="https://github.com/user-attachments/assets/1418ce40-3c49-402c-b33e-d10c802b43af" />
+<img width="650" height="697" alt="image-3c4ffb19-19a7-4e5b-89bf-dbf303ee4748" src="https://github.com/user-attachments/assets/1418ce40-3c49-402c-b33e-d10c802b43af" />
 
 
 ----------
