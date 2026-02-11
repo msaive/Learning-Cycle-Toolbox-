@@ -11,5 +11,6 @@ parts:
     chapters:
     - file: CYCLE.md
     - file: plan_analyse.md
+    - file: plan_goals.md
      
 
