@@ -1,4 +1,4 @@
-# ⚫ PLAN :: I want to analyse a task
+# ⚫ 1. PLAN :: I want to analyse a task
 
 ### **What are these tools?**
 
