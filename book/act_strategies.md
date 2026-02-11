@@ -72,9 +72,9 @@ Initial APT-mapping > [See Tool 1.2](https://canvas.maastrichtuniversity.nl/cour
 Examples of focus-APT maps on whiteboard. Not to copy, just for inspiration. Notice different techniques, layouts:
 
 <img width="600" alt="image-a1542349-3904-4619-b606-b73def2713c1" src="https://github.com/user-attachments/assets/362d900b-e3a5-4dd7-9b01-e92ada1384a3" />
-
+</br>
 <img width="600" alt="image-396b6380-3642-4f31-8378-f4f42811b408" src="https://github.com/user-attachments/assets/c91e5971-b62b-4ca7-8041-f6f5ca3b9c4e" />
-
+</br>
 <img width="600" alt="image-45db9b82-eb19-4b73-934e-dfa738e6ef70" src="https://github.com/user-attachments/assets/462c85fc-1f11-49f8-b191-250455a05d8f" />
 
 
