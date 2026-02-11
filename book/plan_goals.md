@@ -24,11 +24,6 @@ _For individual goal-setting and planning:_
 
 ----------
 
-_The PDF of this tool can be downloaded here:_
-[2.1.1 - Goalsetting - Guiding questions v4.0.pdf](https://github.com/user-attachments/files/25230055/2.1.1.-.Goalsetting.-.Guiding.questions.v4.0.pdf)
-
-----------
-
 **How to use this tool?**  
 This tool can be used within the learning team and/or within 1-on-1 meetings with the LTC and/or for self-study.
 
@@ -74,11 +69,6 @@ Convert goals to  **SMART action plans**  that can be implemented this period > 
 # ⬛ 2.1.2 - SMART Learning Goals
 
 ## **Formulating SMART learning goals for individual learning plan**
-
-----------
-
-_The PDF of this tool can be downloaded here:_ 
-[2.1.2 - Goalsetting  - SMART learning goals v4.0.pdf](https://github.com/user-attachments/files/25230125/2.1.2.-.Goalsetting.-.SMART.learning.goals.v4.0.pdf)
 
 ----------
 
