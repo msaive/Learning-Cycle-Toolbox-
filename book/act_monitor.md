@@ -20,7 +20,7 @@ Use these tools regularly throughout the “Act” phase, especially after compl
 
 🟧 4.2 - Team Activities to Support Monitoring
 
-🟧 3.4 - Using AI to generate (Progress Test) practice questions
+🟧 [3.4 - Using AI to generate (Progress Test) practice questions](https://msaive.github.io/Learning-Cycle-Toolbox-/main/act_strategies.html#using-ai-to-generate-progress-test-practice-questions)
 
 </br>
 
