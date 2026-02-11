@@ -15,6 +15,7 @@ parts:
     - file: 3_act_strategies.md
     - file: 4_act_monitor.md
     - file: 5_lookback_evaluate.md
+    - file: 6_look_back_derive.md
 
      
 
