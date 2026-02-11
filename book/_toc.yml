@@ -12,5 +12,6 @@ parts:
     - file: CYCLE.md
     - file: plan_analyse.md
     - file: plan_goals.md
+    - file: act_strategies.md
      
 
