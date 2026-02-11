@@ -21,7 +21,8 @@ These tools may also be used for your personal reference, or as a visual aid in 
 
 ----------
 
-_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602?wrap=1 "0.1 - Learning cycle model visual EN v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583602/download?download_frd=1)_
+_The PDF of this tool can be downloaded  [here]
+[0.1 - Learning cycle model visual EN v4.0 (2).pdf](https://github.com/user-attachments/files/25228652/0.1.-.Learning.cycle.model.visual.EN.v4.0.2.pdf)
 
 ----------
 
@@ -35,7 +36,8 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583609/preview)
+<img width="400" alt="image-757a3478-67cf-4a3c-9138-4f1790b65056" src="https://github.com/user-attachments/assets/607b2932-964c-4dde-a5c4-f83404048d8d" />
+
 
 ----------
 
@@ -48,7 +50,8 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583589?wrap=1 "0.2 - Learning cycle with prompts for learning team v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583589/download?download_frd=1)_
+_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583589/download?download_frd=1)_
+[0.2 - Learning cycle with prompts for learning team v4.0.pdf](https://github.com/user-attachments/files/25228614/0.2.-.Learning.cycle.with.prompts.for.learning.team.v4.0.pdf)
 
 ----------
 
@@ -62,7 +65,8 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583590/preview)
+<img width="400" alt="image-4c5f1016-7240-4091-8d33-da7282118f94" src="https://github.com/user-attachments/assets/187631aa-18c2-4d74-8e6e-ec7ae44fa663" />
+
 
 ----------
 
@@ -74,7 +78,9 @@ For a version with prompting questions for the individual student:  [**See tool 
 
 ----------
 
-_The PDF of this tool can be downloaded  [here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583600?wrap=1 "0.3 - Learning cycle with prompts for individual student 1-on-1 v4.0.pdf")[Download here](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583600/download?download_frd=1)_
+_The PDF of this tool can be downloaded  [here]
+[0.3 - Learning cycle with prompts for individual student 1-on-1 v4.0.pdf](https://github.com/user-attachments/files/25228664/0.3.-.Learning.cycle.with.prompts.for.individual.student.1-on-1.v4.0.pdf)
+
 
 ----------
 
@@ -88,7 +94,8 @@ For a version with prompting questions for the learning team:  [**See tool 0.2**
 
 ----------
 
-![image.png](https://canvas.maastrichtuniversity.nl/courses/23475/files/5583591/preview)
+<img width="400" alt="image-9fdaaf29-5b22-450e-8d08-397a582620fe" src="https://github.com/user-attachments/assets/84545b19-6957-4b33-8490-30ffa0545110" />
+
 
 ----------
 
