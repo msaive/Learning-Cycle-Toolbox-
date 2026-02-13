@@ -24,23 +24,15 @@ The 2-slide infographic below shows the learning cycle. At the core of the cycle
 **I want to find a tool to…**
 
 [⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE.md) 
+[⚫ **PLAN**  - Analyse the task](./1_plan_analyse.md)
+[⚫ **PLAN**  - Set clear goals and make a feasible plan](./2_plan_goals.md)
+[🟠 **ACT**  - Use strategies to complete the task efficiently](./3_act_strategies.md)
+[🟠 **ACT**  - Monitor progress and adjust plan](./4_act_monitor.md)
+[🔵 **LOOK BACK**  - Evaluate results and process](./5_lookback_evaluate.md)
+[🔵 **LOOK BACK**  - Reflect and derive lessons learned](./6_look_back_derive.md)
+[⚪ **MEETING GUIDES**  - Structure learning team meetings and 1-on-1 coaching sessions](./7_meeting_guides.md)
+[⚪ **EVALUATION TOOLS**  - Evaluate team work and group dynamics](./8_evaluation_tools.md)
 
-
-**[⚫ PLAN](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-analyse-a-task "🧰 PLAN :: I want to analyse a task")** [- Analyse the task](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-analyse-a-task "🧰 PLAN :: I want to analyse a task")
-
-[](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-set-clear-learning-goals-and-make-a-feasible-plan "🧰 PLAN :: I want to set clear learning goals and make a feasible plan")**[⚫](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-analyse-a-task "🧰 PLAN :: I want to analyse a task") [PLAN](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-set-clear-learning-goals-and-make-a-feasible-plan "🧰 PLAN :: I want to set clear learning goals and make a feasible plan")** [- Set clear goals and make a feasible plan](https://canvas.maastrichtuniversity.nl/courses/23475/pages/plan-i-want-to-set-clear-learning-goals-and-make-a-feasible-plan "🧰 PLAN :: I want to set clear learning goals and make a feasible plan")
-
-**[🟠 ACT](https://canvas.maastrichtuniversity.nl/courses/23475/pages/act-i-want-to-complete-my-learning-task-or-goal-efficiently-use-strategies "🧰 ACT :: I want to complete my learning task or goal efficiently (Use strategies)")** [- Use strategies to complete the task efficiently](https://canvas.maastrichtuniversity.nl/courses/23475/pages/act-i-want-to-complete-my-learning-task-or-goal-efficiently-use-strategies "🧰 ACT :: I want to complete my learning task or goal efficiently (Use strategies)")
-
-**[🟠 ACT](https://canvas.maastrichtuniversity.nl/courses/23475/pages/act-i-want-to-check-my-progress-and-adjust-my-plan-if-necessary-monitor-progress "🧰 ACT :: I want to check my progress and adjust my plan if necessary (Monitor progress)")** [- Monitor progress and adjust plan](https://canvas.maastrichtuniversity.nl/courses/23475/pages/act-i-want-to-check-my-progress-and-adjust-my-plan-if-necessary-monitor-progress "🧰 ACT :: I want to check my progress and adjust my plan if necessary (Monitor progress)")
-
-**[🔵 LOOK BACK](https://canvas.maastrichtuniversity.nl/courses/23475/pages/look-back-i-want-to-evaluate-my-performance-and-understand-how-my-actions-influenced-the-outcome-results-and-process "🧰 LOOK BACK :: I want to evaluate my performance and understand how my actions influenced the outcome (results and process)")** [- Evaluate results and process](https://canvas.maastrichtuniversity.nl/courses/23475/pages/look-back-i-want-to-evaluate-my-performance-and-understand-how-my-actions-influenced-the-outcome-results-and-process "🧰 LOOK BACK :: I want to evaluate my performance and understand how my actions influenced the outcome (results and process)")
-
-**[🔵 LOOK BACK](https://canvas.maastrichtuniversity.nl/courses/23475/pages/look-back-i-want-to-reflect-and-derive-lessons-learned "🧰 LOOK BACK :: I want to reflect and derive lessons learned")** [- Reflect and derive lessons learned](https://canvas.maastrichtuniversity.nl/courses/23475/pages/look-back-i-want-to-reflect-and-derive-lessons-learned "🧰 LOOK BACK :: I want to reflect and derive lessons learned")
-
-[**⚪ MEETING GUIDES**  - Structure learning team meetings and 1-on1 coaching sessions](https://canvas.maastrichtuniversity.nl/courses/23475/pages/meeting-guides-i-want-to-effectively-structure-a-learning-team-meeting-or-1-on-1-coaching-session "🧰 MEETING GUIDES :: I want to effectively structure a learning team meeting or 1-on-1 coaching session")
-
-[](https://canvas.maastrichtuniversity.nl/courses/23475/pages/team-evaluation-tools-i-want-to-do-a-team-evaluation "🧰 TEAM EVALUATION TOOLS :: I want to do a team evaluation")[**⚪  EVALUATION TOOLS** - Evaluate team work and group dynamics](https://canvas.maastrichtuniversity.nl/courses/23475/pages/team-evaluation-tools-i-want-to-do-a-team-evaluation "⚪ TEAM EVALUATION TOOLS :: I want to do a team evaluation")
 
 **Work in progress**
 
