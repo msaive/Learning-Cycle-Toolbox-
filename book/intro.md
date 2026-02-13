@@ -23,15 +23,15 @@ The 2-slide infographic below shows the learning cycle. At the core of the cycle
 
 **I want to find a tool to…**
 
-[⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE.md) 
-[⚫ **PLAN**  - Analyse the task](./1_plan_analyse.md)
-[⚫ **PLAN**  - Set clear goals and make a feasible plan](./2_plan_goals.md)
-[🟠 **ACT**  - Use strategies to complete the task efficiently](./3_act_strategies.md)
-[🟠 **ACT**  - Monitor progress and adjust plan](./4_act_monitor.md)
-[🔵 **LOOK BACK**  - Evaluate results and process](./5_lookback_evaluate.md)
-[🔵 **LOOK BACK**  - Reflect and derive lessons learned](./6_look_back_derive.md)
-[⚪ **MEETING GUIDES**  - Structure learning team meetings and 1-on-1 coaching sessions](./7_meeting_guides.md)
-[⚪ **EVALUATION TOOLS**  - Evaluate team work and group dynamics](./8_evaluation_tools.md)
+[⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE.md) </br>
+[⚫ **PLAN**  - Analyse the task](./1_plan_analyse.md) </br>
+[⚫ **PLAN**  - Set clear goals and make a feasible plan](./2_plan_goals.md) </br>
+[🟠 **ACT**  - Use strategies to complete the task efficiently](./3_act_strategies.md) </br>
+[🟠 **ACT**  - Monitor progress and adjust plan](./4_act_monitor.md) </br>
+[🔵 **LOOK BACK**  - Evaluate results and process](./5_lookback_evaluate.md) </br>
+[🔵 **LOOK BACK**  - Reflect and derive lessons learned](./6_look_back_derive.md) </br>
+[⚪ **MEETING GUIDES**  - Structure learning team meetings and 1-on-1 coaching sessions](./7_meeting_guides.md) </br>
+[⚪ **EVALUATION TOOLS**  - Evaluate team work and group dynamics](./8_evaluation_tools.md) </br>
 
 
 **Work in progress**
