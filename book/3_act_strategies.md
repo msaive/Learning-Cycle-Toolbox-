@@ -1,4 +1,4 @@
-#### 🟠 3. ACT :: I want to complete my learning task or goal efficiently (Use strategies)
+# 🟠 3. ACT :: I want to complete my learning task or goal efficiently (Use strategies)
 
 ### What are these tools?
 
